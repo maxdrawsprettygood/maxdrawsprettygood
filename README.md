@@ -1,19 +1,22 @@
 # 👋 Hi, I’m Maxi K (@maxdrawsprettygood)
-My work is primarily as an
+and this is my personal account.
+### My work is primarily as an
 - Illustrator
 - Animator
 - Graphic Artist
-### and I've also worked as a
+### and I've worked as a
 - Product Designer
 - Web Developer
 - Tattooist
 - Audio Engineer
-## What is this account about?
-- Hosting a super secret private repo for a personal project
-- Hopefully an opportunity to **collaborate** on a cool *FOSS* project with interesting people 
+### I also
+- Play guitar and keys
+- Skate vert
+- Make sick beats
+- Am loved by household pets
+- Look forward to collaborating with others
 ## See art ->
 - [Max Draws dot com](https://maxdraws.com)
-
 
 
 <!---
